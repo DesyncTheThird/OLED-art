@@ -8,6 +8,10 @@
 
 ![Pro micro](<pro micro.png?raw=true>)
 
+## Tetris Loop
+
+![Tetris Loop](<tetris.gif?raw=true>)
+
 ## Great (Synth)Wave off Kanagawa
 
 ![Great (Synth)Wave off Kanagawa](<wave.png?raw=true>)
