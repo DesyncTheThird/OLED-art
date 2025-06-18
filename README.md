@@ -4,6 +4,10 @@
 ![Great (Synth)Wave off Kanagawa](<wave.png?raw=true>)
 
 
+## Railway
+![鉄道](<railway.gif?raw=true>)
+
+
 
 ## Four Byte Burger
 ![Four Byte Burger](<four byte burger.png?raw=true>)
