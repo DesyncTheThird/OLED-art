@@ -15,7 +15,7 @@
 
 
 ## RP2040 Pro Micro
-![Pro micro](<pro micro.png?raw=true>)
+![Pro micro](<pro micro.png?raw=true>) ![Pro micro 2](<pro micro 2.png?raw=true>)
 
 
 
