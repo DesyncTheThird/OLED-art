@@ -15,7 +15,7 @@
 
 
 ## RP2040 Pro Micro
-![Pro micro](<pro micro.png?raw=true>) ![Pro micro 2](<pro micro 2.png?raw=true>)
+![Pro micro](<pro micro.png?raw=true>) &nbsp; ![Pro micro 2](<pro micro 2.png?raw=true>)
 
 
 
@@ -32,7 +32,7 @@
 
 
 ## Portal Cube
-![Cube 1](<cube.gif?raw=true>) ![Cube 2](<cube 2.gif?raw=true>)
+![Cube 1](<cube.gif?raw=true>) &nbsp; ![Cube 2](<cube 2.gif?raw=true>)
 
 
 
