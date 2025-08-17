@@ -36,6 +36,11 @@
 
 
 
+## Fumo
+![Cirno 1](<cirno.png?raw=true>) &nbsp; ![Cirno 2](<cirno 2.png?raw=true>)
+
+
+
 # 128x32
 
 ### WIP
