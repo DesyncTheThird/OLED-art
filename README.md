@@ -41,6 +41,14 @@
 
 
 
+## Logo Loop
+<img src="logo.gif" width="64">
+
+This animation is generated dynamically; see [`frames.h`](https://github.com/DesyncTheThird/corne-keymap/blob/main/frames.h) in [my keymap](https://github.com/DesyncTheThird/corne-keymap) for the raw frame data, and the [`render` functions in my keymap.c](https://github.com/DesyncTheThird/corne-keymap/blob/main/keymap.c#L3609-L3694) for implementation.
+
+
+
+
 # 128x32
 
 ### WIP
