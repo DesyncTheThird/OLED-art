@@ -1,3 +1,6 @@
+# A Collection of 1-Bit Art for OLED Screens
+<img src="https://raw.githubusercontent.com/DesyncTheThird/corne-keymap/refs/heads/main/images/waves.png" width="180"> <img src="https://raw.githubusercontent.com/DesyncTheThird/corne-keymap/refs/heads/main/images/four-byte-burger.png" width="180"> <img src="https://raw.githubusercontent.com/DesyncTheThird/corne-keymap/refs/heads/main/images/pro_micro.png" width="180">
+
 # 128x64
 
 ## Great (Synth)Wave off Kanagawa
