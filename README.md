@@ -63,6 +63,11 @@ This animation is generated dynamically; see [`frames.inc`](https://github.com/D
 
 
 
+# Lorenz Attractor
+![Lorenz Attractor](<lorenz.gif?raw=true>)
+
+
+
 # 128x32
 
 ### WIP
