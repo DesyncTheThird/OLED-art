@@ -57,6 +57,12 @@ This animation is generated dynamically; see [`frames.inc`](https://github.com/D
 
 
 
+## Tori
+![Wireframe Torus](<wireframe torus.gif?raw=true>)
+![Doughnut](<doughnut.gif?raw=true>)
+
+
+
 # 128x32
 
 ### WIP
