@@ -47,6 +47,12 @@
 
 
 
+# Metaballs
+![Metaballs](<metaballs.gif?raw=true>)
+![Metaballs 2](<metaballs 2.gif?raw=true>)
+
+
+
 # Planets
 ![Planets](<planets.gif?raw=true>)
 
