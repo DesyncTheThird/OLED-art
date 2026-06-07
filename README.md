@@ -7,6 +7,7 @@
 ![Great (Synth)Wave off Kanagawa](<wave.png?raw=true>)
 
 
+
 ## Railway
 ![鉄道](<railway.gif?raw=true>)
 
@@ -19,6 +20,28 @@
 
 ## RP2040 Pro Micro
 ![Pro micro](<pro micro.png?raw=true>) &nbsp; ![Pro micro 2](<pro micro 2.png?raw=true>)
+
+
+
+## Wireframes
+![Wireframe Cube](<wireframe cube.gif?raw=true>)
+![Wireframe Dodecahedron](<wireframe dodecahedron.gif?raw=true>)
+
+
+
+## Tori
+![Wireframe Torus](<wireframe torus.gif?raw=true>)
+![Doughnut](<doughnut.gif?raw=true>)
+
+
+
+# Lorenz Attractor
+![Lorenz Attractor](<lorenz.gif?raw=true>)
+
+
+
+# Planets
+![Planets](<planets.gif?raw=true>)
 
 
 
@@ -48,23 +71,6 @@
 <img src="logo.gif" width="64">
 
 This animation is generated dynamically; see [`frames.inc`](https://github.com/DesyncTheThird/corne-keymap/blob/main/frames.inc) in [my keymap](https://github.com/DesyncTheThird/corne-keymap) for the raw frame data, and the [`render` functions in my keymap.c]([https://github.com/DesyncTheThird/corne-keymap/blob/main/keymap.c#L3609-L3694](https://github.com/DesyncTheThird/corne-keymap/blob/79921d0dfa8b865bca1cb4dad7e80f3a4c4a2e18/keymap.c#L3777-L3889)) for implementation.
-
-
-
-## Wireframes
-![Wireframe Cube](<wireframe cube.gif?raw=true>)
-![Wireframe Dodecahedron](<wireframe dodecahedron.gif?raw=true>)
-
-
-
-## Tori
-![Wireframe Torus](<wireframe torus.gif?raw=true>)
-![Doughnut](<doughnut.gif?raw=true>)
-
-
-
-# Lorenz Attractor
-![Lorenz Attractor](<lorenz.gif?raw=true>)
 
 
 
