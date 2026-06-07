@@ -35,6 +35,13 @@
 
 
 
+## Julia Sets
+![Julia Set 1](<julia.gif?raw=true>)
+![Julia Set 2](<julia 2.gif?raw=true>)
+![Julia Set 3](<julia 3.gif?raw=true>)
+
+
+
 # Lorenz Attractor
 ![Lorenz Attractor](<lorenz.gif?raw=true>)
 
