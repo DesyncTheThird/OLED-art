@@ -47,6 +47,11 @@
 
 
 
+# Aizawa Attractor
+![Aizawa Attractor](<aizawa.gif?raw=true>)
+
+
+
 # Metaballs
 ![Metaballs](<metaballs.gif?raw=true>)
 ![Metaballs 2](<metaballs 2.gif?raw=true>)
