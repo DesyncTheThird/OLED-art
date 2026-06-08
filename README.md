@@ -86,6 +86,13 @@
 
 
 
+## Recamán's Sequence
+![recamán 30](<recamán 30.gif?raw=true>)
+![recamán 50](<recamán 50.gif?raw=true>)
+![recamán 100](<recamán 100.gif?raw=true>)
+
+
+
 ## Yatai
 ![屋台](<yatai.png?raw=true>)
 
