@@ -28,6 +28,8 @@
 ![Wireframe Dodecahedron](<wireframe dodecahedron.gif?raw=true>)
 ![Wireframe Icosahedron](<wireframe icosahedron.gif?raw=true>)
 ![Wireframe Octahedron](<wireframe octahedron.gif?raw=true>)
+![Tesseract](<tesseract.gif?raw=true>)
+![Klein Bottle](<klein.gif?raw=true>)
 
 
 
