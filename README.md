@@ -46,6 +46,11 @@
 
 
 
+## Dragon Curve
+![Dragon Curve](<dragon.gif?raw=true>)
+
+
+
 # Lorenz Attractor
 ![Lorenz Attractor](<lorenz.gif?raw=true>)
 
