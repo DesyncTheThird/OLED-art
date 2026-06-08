@@ -76,6 +76,11 @@
 
 
 
+# Double Pendulum
+![Double Pendulum](<pendulum.gif?raw=true>)
+
+
+
 ## Tetris Loop
 ![Tetris Loop](<tetris.gif?raw=true>)
 
