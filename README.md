@@ -31,6 +31,10 @@
 ![Wireframe Octahedron](<wireframe octahedron.gif?raw=true>)
 
 ![Tesseract](<tesseract.gif?raw=true>)
+![Pentachoron](<pentachoron.gif?raw=true>)
+
+![Small Stellated Dodecahedron](<small stellated dodecahedron.gif?raw=true>)
+![24-cell](<24-cell.gif?raw=true>)
 
 ![Klein Bottle](<klein.gif?raw=true>)
 ![Möbius Strip](<möbius.gif?raw=true>)
