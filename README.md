@@ -19,39 +19,39 @@
 
 
 ## RP2040 Pro Micro
-![Pro micro](<pro micro.png?raw=true>)
-![Pro micro 2](<pro micro 2.png?raw=true>)
+![Pro micro](<RP2040/pro micro.png?raw=true>)
+![Pro micro 2](<RP2040/pro micro 2.png?raw=true>)
 
 
 
 ## Wireframes
-![Wireframe Cube](<wireframe cube.gif?raw=true>)
-![Wireframe Dodecahedron](<wireframe dodecahedron.gif?raw=true>)
+![Wireframe Cube](<Wireframes/wireframe cube.gif?raw=true>)
+![Wireframe Dodecahedron](<Wireframes/wireframe dodecahedron.gif?raw=true>)
 
-![Wireframe Icosahedron](<wireframe icosahedron.gif?raw=true>)
-![Wireframe Octahedron](<wireframe octahedron.gif?raw=true>)
+![Wireframe Icosahedron](<Wireframes/wireframe icosahedron.gif?raw=true>)
+![Wireframe Octahedron](<Wireframes/wireframe octahedron.gif?raw=true>)
 
-![Tesseract](<tesseract.gif?raw=true>)
-![Pentachoron](<pentachoron.gif?raw=true>)
+![Tesseract](<Wireframes/tesseract.gif?raw=true>)
+![Pentachoron](<Wireframes/pentachoron.gif?raw=true>)
 
-![Small Stellated Dodecahedron](<small stellated dodecahedron.gif?raw=true>)
-![24-cell](<24-cell.gif?raw=true>)
+![Small Stellated Dodecahedron](<Wireframes/small stellated dodecahedron.gif?raw=true>)
+![24-cell](<Wireframes/24-cell.gif?raw=true>)
 
-![Klein Bottle](<klein.gif?raw=true>)
-![Möbius Strip](<möbius.gif?raw=true>)
+![Klein Bottle](<Wireframes/klein.gif?raw=true>)
+![Möbius Strip](<Wireframes/möbius.gif?raw=true>)
 
 
 
 ## Tori
-![Wireframe Torus](<wireframe torus.gif?raw=true>)
-![Doughnut](<doughnut.gif?raw=true>)
+![Wireframe Torus](<Tori/wireframe torus.gif?raw=true>)
+![Doughnut](<Tori/doughnut.gif?raw=true>)
 
 
 
 ## Julia Sets
-![Julia Set 1](<julia.gif?raw=true>)
-![Julia Set 2](<julia 2.gif?raw=true>)
-![Julia Set 3](<julia 3.gif?raw=true>)
+![Julia Set 1](<Julia Sets/julia.gif?raw=true>)
+![Julia Set 2](<Julia Sets/julia 2.gif?raw=true>)
+![Julia Set 3](<Julia Sets/julia 3.gif?raw=true>)
 
 
 
@@ -71,8 +71,8 @@
 
 
 # Metaballs
-![Metaballs](<metaballs.gif?raw=true>)
-![Metaballs 2](<metaballs 2.gif?raw=true>)
+![Metaballs](<Metaballs/metaballs.gif?raw=true>)
+![Metaballs 2](<Metaballs/metaballs 2.gif?raw=true>)
 
 
 
@@ -92,30 +92,30 @@
 
 
 ## Recamán's Sequence
-![recamán 30](<recamán 30.gif?raw=true>)
-![recamán 50](<recamán 50.gif?raw=true>)
-![recamán 100](<recamán 100.gif?raw=true>)
+![recamán 30](<Recamán's Sequence/recamán 30.gif?raw=true>)
+![recamán 50](<Recamán's Sequence/recamán 50.gif?raw=true>)
+![recamán 100](<Recamán's Sequence/recamán 100.gif?raw=true>)
 
 
 
 ## Sorting Algorithms
-![bubble sort](<bubble_sort.gif?raw=true>)
-![cocktail sort](<cocktail_sort.gif?raw=true>)
-![insertion sort](<insertion_sort.gif?raw=true>)
-![selection sort](<selection_sort.gif?raw=true>)
-![gnome sort](<gnome_sort.gif?raw=true>)
+![bubble sort](<Sorting Algorithms/bubble_sort.gif?raw=true>)
+![cocktail sort](<Sorting Algorithms/cocktail_sort.gif?raw=true>)
+![insertion sort](<Sorting Algorithms/insertion_sort.gif?raw=true>)
+![selection sort](<Sorting Algorithms/selection_sort.gif?raw=true>)
+![gnome sort](<Sorting Algorithms/gnome_sort.gif?raw=true>)
 
-![comb sort](<comb_sort.gif?raw=true>)
-![heap sort](<heap_sort.gif?raw=true>)
-![quicksort](<quicksort.gif?raw=true>)
-![merge sort](<merge_sort.gif?raw=true>)
-![radix sort](<radix_sort.gif?raw=true>)
+![comb sort](<Sorting Algorithms/comb_sort.gif?raw=true>)
+![heap sort](<Sorting Algorithms/heap_sort.gif?raw=true>)
+![quicksort](<Sorting Algorithms/quicksort.gif?raw=true>)
+![merge sort](<Sorting Algorithms/merge_sort.gif?raw=true>)
+![radix sort](<Sorting Algorithms/radix_sort.gif?raw=true>)
 
-![comb sort 32](<comb_sort-32.gif?raw=true>)
-![heap sort 32](<heap_sort-32.gif?raw=true>)
-![quicksort 32](<quicksort-32.gif?raw=true>)
-![merge sort 32](<merge_sort-32.gif?raw=true>)
-![radix sort 32](<radix_sort-32.gif?raw=true>)
+![comb sort 32](<Sorting Algorithms/comb_sort-32.gif?raw=true>)
+![heap sort 32](<Sorting Algorithms/heap_sort-32.gif?raw=true>)
+![quicksort 32](<Sorting Algorithms/quicksort-32.gif?raw=true>)
+![merge sort 32](<Sorting Algorithms/merge_sort-32.gif?raw=true>)
+![radix sort 32](<Sorting Algorithms/radix_sort-32.gif?raw=true>)
 
 
 
@@ -127,14 +127,14 @@
 
 
 ## Portal Cube
-![Portal Cube 1](<portal cube.gif?raw=true>)
-![Portal Cube 2](<portal cube 2.gif?raw=true>)
+![Portal Cube 1](<Portal Cube/portal cube.gif?raw=true>)
+![Portal Cube 2](<Portal Cube/portal cube 2.gif?raw=true>)
 
 
 
 ## Fumo
-![Cirno 1](<cirno.png?raw=true>)
-![Cirno 2](<cirno 2.png?raw=true>)
+![Cirno 1](<Fumo/cirno.png?raw=true>)
+![Cirno 2](<Fumo/cirno 2.png?raw=true>)
 
 
 
