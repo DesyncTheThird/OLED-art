@@ -19,7 +19,8 @@
 
 
 ## RP2040 Pro Micro
-![Pro micro](<pro micro.png?raw=true>) &nbsp; ![Pro micro 2](<pro micro 2.png?raw=true>)
+![Pro micro](<pro micro.png?raw=true>)
+![Pro micro 2](<pro micro 2.png?raw=true>)
 
 
 
@@ -97,6 +98,27 @@
 
 
 
+## Sorting Algorithms
+![bubble sort](<bubble_sort.gif?raw=true>)
+![cocktail sort](<cocktail_sort.gif?raw=true>)
+![insertion sort](<insertion_sort.gif?raw=true>)
+![selection sort](<selection_sort.gif?raw=true>)
+![gnome sort](<gnome_sort.gif?raw=true>)
+
+![comb sort](<comb_sort.gif?raw=true>)
+![heap sort](<heap_sort.gif?raw=true>)
+![quicksort](<quicksort.gif?raw=true>)
+![merge sort](<merge_sort.gif?raw=true>)
+![radix sort](<radix_sort.gif?raw=true>)
+
+![comb sort 32](<comb_sort-32.gif?raw=true>)
+![heap sort 32](<heap_sort-32.gif?raw=true>)
+![quicksort 32](<quicksort-32.gif?raw=true>)
+![merge sort 32](<merge_sort-32.gif?raw=true>)
+![radix sort 32](<radix_sort-32.gif?raw=true>)
+
+
+
 ## Yatai
 ![屋台](<yatai.png?raw=true>)
 
@@ -105,12 +127,14 @@
 
 
 ## Portal Cube
-![Portal Cube 1](<portal cube.gif?raw=true>) &nbsp; ![Portal Cube 2](<portal cube 2.gif?raw=true>)
+![Portal Cube 1](<portal cube.gif?raw=true>)
+![Portal Cube 2](<portal cube 2.gif?raw=true>)
 
 
 
 ## Fumo
-![Cirno 1](<cirno.png?raw=true>) &nbsp; ![Cirno 2](<cirno 2.png?raw=true>)
+![Cirno 1](<cirno.png?raw=true>)
+![Cirno 2](<cirno 2.png?raw=true>)
 
 
 
