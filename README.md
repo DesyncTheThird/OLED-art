@@ -154,4 +154,12 @@ This animation is generated dynamically; see [`frames.inc`](https://github.com/D
 
 # 128x32
 
-### WIP
+## Chibi
+
+![Chibi 1](<Chibi/chibi.png?raw=true>)
+
+![Chibi 2](<Chibi/chibi 2.png?raw=true>)
+
+![Chibi 3](<Chibi/chibi 3.png?raw=true>)
+
+![Chibi 4](<Chibi/chibi 4.png?raw=true>)
